@@ -1,4 +1,4 @@
-# CSE221 – Algorithms (BRAC University)
+# CSE221 (Summer 2024) – Algorithms (BRAC University)
 
 Lab assignments from CSE221, BRAC University's algorithms course,
 implemented in Python. Covers sorting, two-pointer and greedy techniques,
